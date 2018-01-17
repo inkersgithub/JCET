@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">JCET</string>
+    <string name="home">Home</string>
+    <string name="admissions">Admissions</string>
+    <string name="contactus">Contact Us</string>
+    <string name="announcements">Announcements</string>
+    <string name="events">Events</string>
+    <string name="virtualtour">Virtual Tour</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="no_net">Oops..No Internet connection found!</string>
+    <string name="refresh">Refresh</string>
+    <string name="exit">Exit</string>
+    <string name="about">About</string>
+    <string name="poweredby">Powered By</string>
+    <string name="inkersweb">www.inkers.in</string>
+    <string name="inkersmail">info@inkers.in</string>
+    <string name="jawaharlalcolleges">Jawaharlal Colleges</string>
+</resources>

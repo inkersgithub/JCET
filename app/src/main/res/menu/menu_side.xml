@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/menu_item_home"
+        android:title="@string/home"
+        android:icon="@mipmap/icon_home">
+    </item>
+    <item android:id="@+id/menu_item_admissions"
+        android:title="@string/admissions"
+        android:icon="@mipmap/icon_admissions">
+    </item>
+    <item android:id="@+id/menu_item_contactus"
+        android:title="@string/contactus"
+        android:icon="@mipmap/icon_contactus">
+    </item>
+    <item android:id="@+id/menu_item_announcements"
+        android:title="@string/announcements"
+        android:icon="@mipmap/icon_announcements">
+    </item>
+    <item android:id="@+id/menu_item_events"
+        android:title="@string/events"
+        android:icon="@mipmap/icon_events">
+    </item>
+    <item android:id="@+id/menu_item_virtualtour"
+        android:title="@string/virtualtour"
+        android:icon="@mipmap/icon_virtualtour">
+    </item>
+
+</menu>
